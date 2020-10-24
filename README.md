@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **logan.hemphill86@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1i6aiexfWJKMs-M1T4NbgJuE4h0BM3a5uazQKsr9mnxQ/edit?usp=sharing](https://docs.google.com/document/d/1i6aiexfWJKMs-M1T4NbgJuE4h0BM3a5uazQKsr9mnxQ/edit?usp=sharing)
+- 📄 Check out my Resume here --> [https://docs.google.com/document/d/1i6aiexfWJKMs-M1T4NbgJuE4h0BM3a5uazQKsr9mnxQ/edit?usp=sharing](https://docs.google.com/document/d/1i6aiexfWJKMs-M1T4NbgJuE4h0BM3a5uazQKsr9mnxQ/edit?usp=sharing)
 
 - ⚡ Fun fact **I was a Craft Brewer for 6yrs before jumping into the #devlife!**
 
