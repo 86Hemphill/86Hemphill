@@ -19,9 +19,10 @@
 📄 <br>
   Check out my Resume here --> <a href ="https://docs.google.com/document/d/1i6aiexfWJKMs-M1T4NbgJuE4h0BM3a5uazQKsr9mnxQ/edit?usp=sharing">Google Doc</a><br><br>
 ⚡ <br>
-  Fun fact: <b>I was a Craft Brewer for 6yrs before jumping into the #devlife!</b></p>
+  Fun fact: <b>I was a Craft Brewer for 6yrs before jumping into the #devlife!</b>
+  
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-<h3>Connect with me:</h3>
 <a href="https://linkedin.com/in/logan-hemphill" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="loganhemphill" height="30" width="40" /></a>
 </p>
 
