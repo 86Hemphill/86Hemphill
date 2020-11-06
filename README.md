@@ -1,27 +1,28 @@
-<h1 align="center">Hi 👋, I'm Logan Hemphill</h1>
-<h3 align="center">A full-stack developer living in Atlanta</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=86hemphill&label=Profile%20views&color=0e75b6&style=flat" alt="86hemphill" /> </p>
 
-- 🔭 I’m currently working on [Journey](https://www.createmyjourney.app/login)
+<h1 align="center">Hi , I'm Logan Hemphill</h1>
+<h3 align="center">A full-stack developer living in Atlanta</h3>
 
-- 🌱 I’m currently learning **AWS & Docker**
-
-- 👯 I’m looking to collaborate on **CollabBag**
-
-- 👨‍💻 All of my projects are available at [https://86hemphill.github.io/Portfolio/](https://86hemphill.github.io/Portfolio/)
-
-- 💬 Ask me about **React and the rest of the {MERN} stack**
-
-- 📫 How to reach me **logan.hemphill86@gmail.com**
-
-- 📄 Check out my Resume here --> [https://docs.google.com/document/d/1i6aiexfWJKMs-M1T4NbgJuE4h0BM3a5uazQKsr9mnxQ/edit?usp=sharing](https://docs.google.com/document/d/1i6aiexfWJKMs-M1T4NbgJuE4h0BM3a5uazQKsr9mnxQ/edit?usp=sharing)
-
-- ⚡ Fun fact **I was a Craft Brewer for 6yrs before jumping into the #devlife!**
-
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/logan-hemphill/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/logan-hemphill/" height="30" width="40" /></a>
+<p align="center">
+🔭 <br>
+  I’m currently working on <a href="https://www.createmyjourney.app/login">Journey</a><br><br>
+🌱 <br>
+  I’m currently learning <b>AWS & Docker</b><br><br>
+👯 <br>
+  I’m looking to collaborate on <b>CollabBag</b><br><br>
+👨‍💻 <br>
+  You can view my projects in my <a href="https://86hemphill.github.io/Portfolio/">Portfolio</a><br><br>
+💬 <br>
+  Ask me about <b>React and the rest of the {MERN} stack</b><br><br>
+📫 <br>
+  How to reach me <b>logan.hemphill86@gmail.com</b><br><br>
+📄 <br>
+  Check out my Resume here --> <a href ="https://docs.google.com/document/d/1i6aiexfWJKMs-M1T4NbgJuE4h0BM3a5uazQKsr9mnxQ/edit?usp=sharing">Google Doc</a><br><br>
+⚡ <br>
+  Fun fact: <b>I was a Craft Brewer for 6yrs before jumping into the #devlife!</b></p>
+<p align="center">
+<h3>Connect with me:</h3>
+<a href="https://linkedin.com/in/logan-hemphill" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="loganhemphill" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
