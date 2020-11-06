@@ -4,21 +4,21 @@
 <h3 align="center">A full-stack developer living in Atlanta.</h3>
 
 <p align="center">
-🔭 <br>
+🌎 <br>
   I’m currently working on <a href="https://www.createmyjourney.app/login">Journey</a>, a travel app that can assist you in choosing your destination and attractions or restaurants to visit.<br><br>
-🌱 <br>
+📘 <br>
   I’m currently learning <b>AWS & Docker</b><br><br>
-👯 <br>
+👥 <br>
   I’m looking to collaborate on <b>CollabBag</b><br><br>
-👨‍💻 <br>
+🔍  <br>
   You can view my projects in my <a href="https://86hemphill.github.io/Portfolio/">Portfolio</a><br><br>
 💬 <br>
   Ask me about <b>React and the rest of the {MERN} stack</b><br><br>
-📫 <br>
+📬 <br>
   You can reach me on LinkedIn or email me directly @ <b>logan.hemphill86@gmail.com</b><br><br>
 📄 <br>
   Check out my Resume here --> <a href ="https://docs.google.com/document/d/1i6aiexfWJKMs-M1T4NbgJuE4h0BM3a5uazQKsr9mnxQ/edit?usp=sharing">Google Doc</a><br><br>
-⚡ <br>
+🍻 <br>
   Fun fact: <b>I was a Craft Brewer for 6yrs before jumping into the #devlife!</b></p><br>
   
 <h3 align="center">Connect with me:</h3>
