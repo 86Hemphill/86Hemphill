@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=86hemphill&label=Profile%20views&color=0e75b6&style=flat" alt="86hemphill" /> </p>
 
-<h1 align="center">Hi , I'm Logan Hemphill.</h1>
-<h3 align="center">A full-stack developer living in Atlanta.</h3>
+<h1 align="center">Hi , I'm Logan Hemphill</h1>
+<h3 align="center">A full-stack developer living in Atlanta, Georgia</h3>
 
 <p align="center">
 🌎 <br>
