@@ -5,9 +5,9 @@
 
 <p align="center">
 🌎 <br>
-  I’m currently working on <a href="https://www.createmyjourney.app/login">Journey</a>, a travel app that can assist you in choosing your destination and attractions or restaurants to visit.<br><br>
+  I’m currently working on <a href="https://ohhell.netlify.app/">OhHell!</a>, a scoring app for the card game Oh Hell!<br><br>
 📘 <br>
-  I’m currently learning <b>AWS & Docker</b><br><br>
+  I’m currently learning <b>Gatsby, AWS & Docker</b><br><br>
 👥 <br>
   I’m looking to collaborate on <b>CollabBag</b><br><br>
 🔍  <br>
