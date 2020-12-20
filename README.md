@@ -5,7 +5,7 @@
 
 <p align="center">
 🌎 <br>
-  I’m currently working on <a href="https://ohhell.netlify.app/">OhHell!</a>, a scoring app for the card game Oh Hell!<br><br>
+  I’m currently working on <a href="https://github.com/86Hemphill/ohsa">OhHell!</a>, a scoring app for the card game Oh Hell!<br><br>
 📘 <br>
   I’m currently learning <b>Gatsby, AWS & Docker</b><br><br>
 👥 <br>
